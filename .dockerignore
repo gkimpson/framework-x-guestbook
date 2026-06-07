@@ -1,4 +1,4 @@
-k/vendor/
+vendor/
 .git
 .idea/
 .DS_Store
